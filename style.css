@@ -76,7 +76,7 @@ input,
 /* Heading */
 
 h3,
-label[for="new-task"] {
+.new-task {
     color: var(--color333);
     font-weight: 700;
     font-size: 15px;
@@ -127,7 +127,7 @@ label[for="new-task"] {
 }
 
 
-li > input[type="checkbox"] {
+li > .item_checkbox {
     margin: 0px 10px;
 }
 
