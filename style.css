@@ -172,9 +172,10 @@ li > .inp-text {
     display: none;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
-.header { text-align: center;
+.header {
+     text-align: center;
 }
 
 }
